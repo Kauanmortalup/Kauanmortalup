@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Kauan, I'm 20 years old and I'm living in Brazil
+- 👋 Hi, my name is Kauan, I'm 21 years old and I'm living in Brazil
 - 📚 I'm currently in college and in my spare time I study React...
 - 🌱 I'm looking to acquire knowledge and work as a programmer in the future...
 - 📫 How to reach me?
-         kauanmortalmorelli@gmail.com
+         kauanmorelliprog@gmail.com
          @kauan_morelli (instagram)
 
 <!---
