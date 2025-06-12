@@ -1,11 +1,24 @@
-- 👋 Hi, my name is Kauan, I'm 21 years old and I'm living in Brazil
-- 📚 I'm currently in college and in my spare time I study React...
-- 🌱 I'm looking to acquire knowledge and work as a programmer in the future...
-- 📫 How to reach me?
-         kauanmorelliprog@gmail.com
-         @kauan_morelli (instagram)
+# 👋 Olá! Eu sou o Kauan Morelli
 
-<!---
-Kauanmortalup/Kauanmortalup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante do último ano de **Ciência da Computação**  
+💻 Desenvolvedor com foco em back-end e APIs REST  
+📍 21 anos, apaixonado por tecnologia e inovação
+
+## 🚀 Tecnologias que utilizo
+
+- ⚙️ **Node.js**
+- ⚡ **Express**
+- 🛠️ **Sequelize**
+- 🧪 **Postman**
+- 🗄️ **SQL Server**
+- 💻 **React**
+
+## 📫 Contato
+
+- 📧 **Email:** kauanmorelliprog@gmail.com  
+- 📸 **Instagram:** [@kauan_morelli](https://instagram.com/kauan_morelli)
+
+
+## 🌱 Em constante evolução
+
+Sempre aprendendo e buscando novos desafios na área de desenvolvimento de software
